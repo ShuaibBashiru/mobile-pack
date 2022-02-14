@@ -1,0 +1,572 @@
+{
+    "records": [
+      {
+        "surname": "Adeniji",
+        "firstname": " Adeolu",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Alabi",
+        "firstname": " Adewunmi",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Adegboyega",
+        "firstname": " Bolanle",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "ADEWALE",
+        "firstname": " ABIOLA",
+        "email": "",
+        "place_of_practice": "UNIVERSITY COLLEGE HOSPITAL, IBADAN",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Lasebikan",
+        "firstname": " Amaka",
+        "email": "",
+        "place_of_practice": "UNIVERSITY OF NIGERIA TEACHING HOSPITAL, ENUGU",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Uchechukwu",
+        "firstname": " Shagaya",
+        "email": "",
+        "place_of_practice": "FEDERAL STAFF HOSPITAL, ABUJA",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Adewuyi",
+        "firstname": " Sunday",
+        "email": "",
+        "place_of_practice": "AHMADU BELLO UNIVERSITY TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Olatunji",
+        "firstname": " Temitope",
+        "email": "",
+        "place_of_practice": "LAGOS STATE UNIVERSITY TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Bashir",
+        "firstname": " Maryam",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Alegi",
+        "firstname": " Kemi",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Okwor",
+        "firstname": " Vitalis",
+        "email": "",
+        "place_of_practice": "UNIVERSITY OF NIGERIA TEACHING HOSPITAL, ENUGU",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "OYEKAN",
+        "firstname": " ADEMOLA",
+        "email": "",
+        "place_of_practice": "LAGOS STATE UNIVERSITY TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Salako",
+        "firstname": " A",
+        "email": "",
+        "place_of_practice": "UNIVERSITY COLLEGE HOSPITAL, IBADAN",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Akinbami",
+        "firstname": " Omobolanle",
+        "email": "",
+        "place_of_practice": "LAGOS STATE UNIVERSITY TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "ALLI-GOMBE",
+        "firstname": " MUSA",
+        "email": "",
+        "place_of_practice": "Federal Teaching Hospital,Gombe",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Joseph",
+        "firstname": " Dayo",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Iyare",
+        "firstname": " Oluwatoyin",
+        "email": "",
+        "place_of_practice": "FEDERAL TEACHING HOSPITAL ABAKALIKI",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Agbakwuru",
+        "firstname": " Chidi",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Nwachukwu",
+        "firstname": " Ella",
+        "email": "",
+        "place_of_practice": "NATIONAL HOSPITAL,ABUJA",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Okunnuga",
+        "firstname": " Ndidi",
+        "email": "",
+        "place_of_practice": "",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "JIMOH",
+        "firstname": " MUTIU",
+        "email": "",
+        "place_of_practice": "UNIVERSITY COLLEGE HOSPITAL, IBADAN",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Aliyu",
+        "firstname": " Usman Malami",
+        "email": "",
+        "place_of_practice": "Usmanu Danfodiyo University Teaching Hospital",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Popoola",
+        "firstname": " Olayinka",
+        "email": "",
+        "place_of_practice": "",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Popoola",
+        "firstname": " Abiodun",
+        "email": "",
+        "place_of_practice": "LAGOS STATE UNIVERSITY TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Habeebu",
+        "firstname": " Mohamed",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Jatto",
+        "firstname": " Jamil",
+        "email": "",
+        "place_of_practice": "UNIVERSITY OF BENIN TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Olasinde",
+        "firstname": " Tajuddin",
+        "email": "",
+        "place_of_practice": "AHMADU BELLO UNIVERSITY TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Nwankwo",
+        "firstname": " Kenneth",
+        "email": "",
+        "place_of_practice": "UNIVERSITY OF NIGERIA TEACHING HOSPITAL, ENUGU",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Adeniyi",
+        "firstname": " Adenipekun",
+        "email": "",
+        "place_of_practice": "UNIVERSITY COLLEGE HOSPITAL, IBADAN",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "OGUNNORIN",
+        "firstname": " OLUTOYE",
+        "email": "",
+        "place_of_practice": "UNIVERSITY COLLEGE HOSPITAL, IBADAN",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "JIMETA",
+        "firstname": " JUMMAI",
+        "email": "",
+        "place_of_practice": "",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "BIYI-OLUTUNDE",
+        "firstname": " OLUSEGUN",
+        "email": "",
+        "place_of_practice": "UNIVERSITY OF PORT-HARCOURT TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Olabumuyi",
+        "firstname": " Adeniyi",
+        "email": "",
+        "place_of_practice": "AHMADU BELLO UNIVERSITY TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "OKORO",
+        "firstname": " UCHENNA",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Simeon",
+        "firstname": " Aruah",
+        "email": "",
+        "place_of_practice": "NATIONAL HOSPITAL,ABUJA",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "UBA",
+        "firstname": " FATIMA",
+        "email": "",
+        "place_of_practice": "NATIONAL HOSPITAL,ABUJA",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Otene",
+        "firstname": " Samuel",
+        "email": "",
+        "place_of_practice": "FMC,MAKURDI",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Oyesegun",
+        "firstname": " Rasaq",
+        "email": "",
+        "place_of_practice": "NATIONAL HOSPITAL,ABUJA",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Festus",
+        "firstname": " Igbinoba",
+        "email": "",
+        "place_of_practice": "NATIONAL HOSPITAL,ABUJA",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Abdullahi",
+        "firstname": " Adamu",
+        "email": "",
+        "place_of_practice": "AHMADU BELLO UNIVERSITY TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "FOLORUNSHO",
+        "firstname": " SHARIF",
+        "email": "",
+        "place_of_practice": "UNIVERSITY COLLEGE HOSPITAL, IBADAN",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "UWAGBA",
+        "firstname": " GODWIN",
+        "email": "",
+        "place_of_practice": "ASI UKPO DIAGNOSTICS AND MEDICAL CENTER",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Ololade",
+        "firstname": " kehinde",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Oladeji",
+        "firstname": " Adebayo",
+        "email": "",
+        "place_of_practice": "UNIVERSITY COLLEGE HOSPITAL, IBADAN",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Sowunmi",
+        "firstname": " Anthonia",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Popoola",
+        "firstname": " Alfred",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Ntekim",
+        "firstname": " Atara",
+        "email": "",
+        "place_of_practice": "UNIVERSITY COLLEGE HOSPITAL, IBADAN",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Folasire",
+        "firstname": " Ayorinde",
+        "email": "",
+        "place_of_practice": "UNIVERSITY COLLEGE HOSPITAL, IBADAN",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Fatiregun",
+        "firstname": " Omolara",
+        "email": "",
+        "place_of_practice": "LAGOS STATE UNIVERSITY TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "LAWAL",
+        "firstname": " BASIRA",
+        "email": "",
+        "place_of_practice": "NATIONAL HOSPITAL,ABUJA",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Oboh",
+        "firstname": " Evaristus",
+        "email": "",
+        "place_of_practice": "UNIVERSITY OF BENIN TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Oshikalu",
+        "firstname": " Catherine",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Aje",
+        "firstname": " Eben",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "GOMBE",
+        "firstname": " MUSA",
+        "email": "",
+        "place_of_practice": "",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Ikhile",
+        "firstname": " Emmanuel",
+        "email": "",
+        "place_of_practice": "UNIVERSITY OF BENIN TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Ademiluwa",
+        "firstname": " Bikrat",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Balogun",
+        "firstname": " Hadijat",
+        "email": "",
+        "place_of_practice": "",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Tijjani",
+        "firstname": " Abba",
+        "email": "",
+        "place_of_practice": "UNIVERSITY COLLEGE HOSPITAL, IBADAN",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Oludare",
+        "firstname": " Adeyemi",
+        "email": "",
+        "place_of_practice": "UNIVERSITY OF BENIN TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Eriba",
+        "firstname": " Lucy",
+        "email": "",
+        "place_of_practice": "UNIVERSITY OF BENIN TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Nimark",
+        "firstname": " Maurice",
+        "email": "",
+        "place_of_practice": "NATIONAL HOSPITAL,ABUJA",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Mustapha",
+        "firstname": " Muhammad",
+        "email": "",
+        "place_of_practice": "",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Olukiran",
+        "firstname": " Olugbenro",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Anaenugwu",
+        "firstname": " Chisom",
+        "email": "",
+        "place_of_practice": "UNIVERSITY OF BENIN TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Ahmadu",
+        "firstname": " Tessy",
+        "email": "",
+        "place_of_practice": "AHMADU BELLO UNIVERSITY TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Njoku",
+        "firstname": " Chinyere",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Isibor",
+        "firstname": " Victor",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Adesanya",
+        "firstname": " Adeniyi",
+        "email": "",
+        "place_of_practice": "Federal Medical Centre, Abeokuta",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Yusuff",
+        "firstname": " Rahmat",
+        "email": "",
+        "place_of_practice": "LAGOS STATE UNIVERSITY TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Oluyede",
+        "firstname": " Glory",
+        "email": "",
+        "place_of_practice": "Lagos University Teaching Hospital Idiaraba",
+        "specialty": "Oncology",
+        "phone": ""
+      },
+      {
+        "surname": "Okedairo",
+        "firstname": " Bolaji",
+        "email": "",
+        "place_of_practice": "LAGOS STATE UNIVERSITY TEACHING HOSPITAL",
+        "specialty": "Oncology",
+        "phone": ""
+      }
+    ]
+  }

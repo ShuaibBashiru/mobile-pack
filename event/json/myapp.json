@@ -1,0 +1,46 @@
+{
+    "settings":{
+        "ownerstatus": "Chief Knowledge Officer",
+        "ownername": "Bashiru Shuaib Abiodun.",
+        "facebook": "https://www.facebook.com/shuaibshuaib",
+        "twitter": "https://www.twitter.com/shuaibshuaib",
+        "instagram": "https://www.instagram.com/shuaibshuaib",
+        "youtube": "https://www.youtube.com/shuaibshuaib",
+        "linkedin": "https://www.linkedin.com/shuaibshuaib",
+        "officialemail": "info@shuaibshuaib.org",
+        "email_one": "info@shuaibshuaib.org",
+        "email_two": "",
+        "displayEmail": "info@shuaibshuaib.org",
+        "phone_one": "+2348033110087",
+        "phone_two": "+2348023239531",
+        "displayPhone": "+2348033110087, +2348023239531",
+        "address": "VirtualStack, Lagos, Nigeria",
+        "copyright": "VirtualStack 2021, Men's custom clothier & Consultant. All Rights Reserved",
+        "ownerabout":"David Oyakhilome has been the brands Chief Knowledge Officer/creative director,since its inception some 12years ago. Stride by stride, he has helped in expanding and shaping the brand into the ultimate African pride."
+    },
+    
+    "appinfo":{
+        "appname": "Crop planning (SOS)",
+        "year": "2021",
+        "displaynamecap": "VirtualStack",
+        "displaynamelower": "VirtualStack",
+        "sloganslide": "Doing Business With Human Face",
+        "copyright": "Doing Business With Human Face",
+        "bg_color": "bg-light",
+        "css":{
+            "headerbg": "background: #ffffff; box-shadow:1px 0px 0px 1px #ccc;",
+            "dash_headerbg": "background: #3d8160; box-shadow:1px 0px 0px 1px #ccc;",
+            "dash_bodycolor": "color: #ffffff;",
+            "headercolor": "",
+            "sidebarbg": "background: #2a6e4d;",
+            "bodycolor": "color: black;"
+        },
+        "logo": "logo.png",
+        "logoHeight": 32,
+        "logoWidth": 32
+    },
+    "error":{
+        "networkerror": "Error connecting! Kindly refresh this page or report this error."
+    }
+    
+    }
